@@ -32,9 +32,6 @@ Here are some ideas to get you started:
 ### 🛠️ Tools  
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"></a>
 
-이것저것 추가!
-
-
 
 # Trying to be a good Dev 🌱
 ![NYinJP's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYinJP&show_icons=true&theme=radical)
